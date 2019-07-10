@@ -1,2 +1,2 @@
 # yash
-git hub learning repository 
+these are the changes made to yash reposiatory 
